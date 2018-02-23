@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+###ROYAL MECH
 
 You can use the [editor on GitHub](https://github.com/adarshkannan/adarshkannan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
